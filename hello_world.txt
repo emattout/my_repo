@@ -1,8 +1,15 @@
 Lorem ipsum dolor sit amet,  
 consectetuer adipiscing elit.  
+<<<<<<< HEAD
  commodo ligula eget dolor.
  massa.
-Cum sociis natoque penatibus et magnis dis parturient montes,  
+=======
+Aeneddddan commodo ligula eget dolor.
+Aenedddddan massa.
+>>>>>>> d03caf4eeeef3be35d32cbc0bd3f65ce0758ad0a
+ commodo ligula eget dolor.
+ massa.
+Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.  
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
 Nulla consequat massa quis enim.  
